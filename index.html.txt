@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Pranav's GithubIO</title>
+	</head>
+	<body>
+	<p>Initializing the githubIO webpage for future use</p>
+	</body>
+</html>
